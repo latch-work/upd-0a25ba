@@ -1,3 +1,6 @@
-{ "version": "1.0.1", "build": 2,
-  "apk_url": "https://github.com/latch-work/upd-0a25ba/releases/download/v1.0.1/app-release.apk",
-  "notes": "realtest" }
+{
+  "version": "1.0.1",
+  "build": 2,
+  "apk_url": "https://github.com/latch-work/upd-0a25ba/releases/latest/download/app-release.apk",
+  "notes": "realtest"
+}
